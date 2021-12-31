@@ -6,7 +6,7 @@ Screenshot:
 
 <img src="https://user-images.githubusercontent.com/53529387/147822089-c706fa2b-b104-4e4f-9f87-b29457e1ff85.png" width="900">
 
-Live URL: 
+Live URL: https://lingardium.github.io/Happy-new-year-with-javascipt-and-python/
 
 # Installation
 
