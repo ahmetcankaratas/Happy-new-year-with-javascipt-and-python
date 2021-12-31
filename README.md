@@ -2,7 +2,9 @@
 
 Bu mini proje toplu mesajları sevmeyenler için geliştirilmiştir. Terminal ekranında girilen isme özel mesaj hazırlamakta ve arkaplanda javascript komutlarıyla önyüze python kodu olarak yazdırmaktadır.
 
-Screenshots:
+Screenshot:
+
+<img src="https://user-images.githubusercontent.com/53529387/147822089-c706fa2b-b104-4e4f-9f87-b29457e1ff85.png" width="900">
 
 Live URL: 
 
