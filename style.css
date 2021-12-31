@@ -1,0 +1,46 @@
+body {
+    height: 100%;
+    margin:0;
+    background-color:azure;
+}
+#screen {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    height:220px;
+    width:660px;
+    background-color:black;
+    border:10px solid black;
+    overflow-x:break-word;
+}
+#handle {
+    width:20px;
+    height:40px;
+    background-color:black;
+    position:absolute;
+    margin:50%;
+    margin-top:230px;
+    transform:translate(-50%);
+}
+#stand {
+    height:35px;
+    width:100px;
+    background-color:black;
+    position:absolute;
+    margin:50%;
+    transform:translate(-50%);
+    border:1px solid black;
+    border-radius:50%;
+}
+pre {
+    color:white;
+    padding-left:5px;
+}
+#dv {
+    color:black;
+    position:fixed;
+    right: 10px;
+    bottom: 10px;
+}
